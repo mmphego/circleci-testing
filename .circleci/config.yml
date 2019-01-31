@@ -1,6 +1,6 @@
 version: 2
 
-orbs:
+jobs:
     build:
         docker:
             - image: circleci/node:4.8.2
